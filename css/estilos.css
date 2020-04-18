@@ -6,3 +6,9 @@
 .fixed-sn footer {
     padding-left: 0rem!important;
 }
+
+body {
+    background-image: url('../img/background.png');
+    background-repeat: repeat-y;
+    background-size: cover;
+}
